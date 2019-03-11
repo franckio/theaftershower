@@ -4,7 +4,7 @@ text-align: center;
 }
 
 .outer {
-width: 100px;
-height: 100px;
+width: 100%;
+height: 100%;
 background-color: linear-gradient(90deg, #C6E5D9 0%, #F4EAD5 50%, #C6E5D9 100%);
 }
