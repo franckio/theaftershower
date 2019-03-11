@@ -3,5 +3,7 @@ color: red;
 }
 
 .outer {
-background-color: linear-gradient(90deg, #C6E5D9 0%, #F4EAD5 50%, #C6E5D9 100%)
+max-width: 100%;
+mex-height: 100%;
+background-color: linear-gradient(90deg, #C6E5D9 0%, #F4EAD5 50%, #C6E5D9 100%);
 }
