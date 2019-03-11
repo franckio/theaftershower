@@ -4,7 +4,7 @@ text-align: center;
 }
 
 .outer {
-max-width: 100%;
-mex-height: 100%;
+width: 100px;
+height: 100px;
 background-color: linear-gradient(90deg, #C6E5D9 0%, #F4EAD5 50%, #C6E5D9 100%);
 }
