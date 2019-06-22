@@ -125,7 +125,7 @@
 							return;
 
 					// Hide sidebar.
-						$sidebar.addClass('inactive');
+						$sidebar.addClass('active');
 
 					// Redirect to href.
 						setTimeout(function() {
